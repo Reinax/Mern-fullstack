@@ -1,0 +1,24 @@
+
+.background {
+    background-color: #BEBEBE;
+    width: 100%;
+    height: 100%;
+}
+
+.text-color {
+    color:rgb(255, 255, 255);
+}
+
+.searchPlacement {
+    text-align: center;
+}
+
+.dark {
+    background-color: #333;
+    color: #fff;
+}
+
+.light {
+    background-color: #fff;
+    color: #333;
+}
